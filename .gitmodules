@@ -1,0 +1,3 @@
+[submodule "kilo"]
+	path = kilo
+	url = https://github.com/antirez/kilo.git
